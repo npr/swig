@@ -1,3 +1,3 @@
 # swig 🥛
 
-## NPR boilerplate for gulp.js projects
+NPR boilerplate for gulp.js projects
