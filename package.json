@@ -1,0 +1,16 @@
+{
+  "name": "swig",
+  "version": "1.0.0",
+  "description": "npr's gulp.js boilerplate",
+  "main": "gulpfile.js",
+  "author": "NPR Design",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-sketch": "^1.0.5"
+  }
+}
