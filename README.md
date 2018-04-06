@@ -6,7 +6,7 @@ basic directory structure, dependencies and example tasks for gulp.js projects
 - Yarn: https://yarnpkg.com/en/docs/install
 - Gulp: `sudo npm install -g gulp`
 
-## Getting Started
+## Get Started
 ```
 git clone https://github.com/joshosbrn/swig.git your-project
 cd your-project
