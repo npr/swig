@@ -13,8 +13,3 @@ cd your-project
 yarn install
 gulp
 ```
-
-## In Use
-Not sure how you might use `swig` on your next gulp.js project? Here are some ideas:
-- [NPR.org Favicon Pipeline](https://github.com/npr/favicon)
-- [vu – NPR's design system for editorial tools](https://github.com/npr/vu)
